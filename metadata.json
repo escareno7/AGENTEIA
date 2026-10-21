@@ -1,0 +1,6 @@
+{
+  "name": "EduAgent - Generador de Exámenes, Notas y Flashcards",
+  "description": "Agente de IA que genera exámenes interactivos, notas de repaso estructuradas y flashcards de estudio a partir de tus temas y apuntes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
